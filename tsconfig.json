@@ -1,0 +1,11 @@
+{
+  "include": ["./**.ts"],
+  "compilerOptions": {
+    "outDir": "./dist",
+    "noImplicitAny": false,
+    "moduleResolution": "node",
+    "downlevelIteration": true,
+    "allowJs": true,
+    "lib": ["ES2015", "dom"]
+  }
+}

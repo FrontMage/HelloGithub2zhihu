@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@types/node": "^10.12.10",
+    "@types/prompts": "^1.1.1",
+    "@types/puppeteer": "^1.10.0",
+    "chalk": "^2.4.1",
+    "prompts": "^1.2.1",
+    "puppeteer": "^1.10.0"
+  }
+}

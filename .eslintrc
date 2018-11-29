@@ -1,0 +1,30 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 2017
+  },
+  "env": {
+    "browser": true,
+    "node": true,
+    "es6": true,
+    "commonjs": true,
+    "jquery": true
+  },
+  "globals": {
+    "m": true,
+    "echarts": true
+  },
+  "extends": "eslint:recommended",
+  "rules": {
+    "indent": [0],
+    "no-extra-boolean-cast": 1,
+    "no-console": 1,
+    "semi": [2, "always"],
+    "eqeqeq": 1,
+    "comma-dangle": 1,
+    "no-unused-vars": 1,
+    "no-empty": 1,
+    "no-extra-semi": 1,
+    "no-irregular-whitespace": 1,
+    "quotes": [1, "single"]
+  }
+}
